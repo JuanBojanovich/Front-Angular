@@ -1,0 +1,22 @@
+.row{
+    
+    background-color: #6d01c5c5;
+    color: white;
+    padding: 20px;
+    
+
+}
+
+    h1,h3,h4{
+        display: inline;
+        
+    }
+    h1{
+        border-style: solid; color: black;
+    }
+
+    h1:hover{
+        background-color: whitesmoke;
+        border-radius: 0%
+    }
+   

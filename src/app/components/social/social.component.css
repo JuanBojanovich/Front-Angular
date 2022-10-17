@@ -1,0 +1,24 @@
+
+img{
+    width: 25px;
+    
+}
+
+a {
+    background-color: #9d37f1c5;
+    transition: background-color .5s;
+    display: inline-block;
+    border-radius: 100%;
+  }
+  
+  a:hover {
+    background-color: gold;
+    border-radius: 100%;
+  }
+
+.btn{
+  border-width: medium;
+  color: white;
+}
+/*para vista de celular*/
+

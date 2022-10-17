@@ -1,0 +1,38 @@
+.row{
+    
+    background-color: #6d01c5c5;
+    padding: 20px;
+     
+}
+h1{
+    
+    color: black;
+    border-style: solid; color: black;
+}
+p{
+    color: white;
+}
+h1:hover{
+    background-color: whitesmoke;
+        border-radius: 0%
+        
+}
+
+.contenedor{
+    background-color: #6d01c5c5;
+    width: auto;
+    color: black;
+    
+
+}
+
+.parte1, .parte2{
+    
+    padding: 20px;
+    display: inline-block;
+    text-align: justify;
+
+}
+.img-proyecto{
+  box-shadow: 10px 10px 30px black;
+}

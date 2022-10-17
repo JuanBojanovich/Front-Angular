@@ -1,0 +1,17 @@
+.row{
+    
+    background-color: #850de7c5;
+    padding: 20px;
+}
+h1{
+    border-style: solid; color: black;
+}
+h1:hover{
+    background-color: whitesmoke;
+border-radius: 0%
+}
+
+div{
+    border-style: solid; color: #b968fcc5;
+}
+
